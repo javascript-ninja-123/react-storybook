@@ -1,0 +1,22 @@
+
+
+
+
+$primary-blue:#3D60A4;
+$second-blue:lighten($primary-blue,40%);
+
+$primary-grey:#F7F7F7;
+$secondary-grey:darken($primary-grey,10%);
+
+
+//font
+$black:black;
+
+
+
+.Flex-Column-Center-Center{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,11 @@
+@import '../../css/index.scss';
+
+.HEADER{
+ width:100vw;
+ .navbar{
+   background:$primary-grey;
+    .navbar-brand{
+      color:$black;
+    }
+ }
+}

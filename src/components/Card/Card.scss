@@ -1,0 +1,14 @@
+@import '../../css/index.scss';
+
+.CARD{
+  .ui.card{
+    @extend .Flex-Column-Center-Center;
+    .content{
+      @extend .Flex-Column-Center-Center;
+      .description{
+        text-align: center;
+        padding:0 0.5em;
+      }
+    }
+  }
+}

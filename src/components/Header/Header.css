@@ -1,0 +1,12 @@
+.Flex-Column-Center-Center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.HEADER {
+  width: 100vw; }
+  .HEADER .navbar {
+    background: #F7F7F7; }
+    .HEADER .navbar .navbar-brand {
+      color: black; }

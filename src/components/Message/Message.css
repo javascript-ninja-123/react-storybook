@@ -1,0 +1,8 @@
+.Flex-Column-Center-Center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.MESSAGE .ui.message {
+  width: 500px; }

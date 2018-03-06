@@ -1,0 +1,11 @@
+.Flex-Column-Center-Center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.BUTTON .button {
+  min-width: 120px;
+  background: #3D60A4; }
+  .BUTTON .button:hover {
+    background: #c4d1e9; }

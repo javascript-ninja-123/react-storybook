@@ -1,0 +1,8 @@
+.Flex-Column-Center-Center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
+
+.INPUT .ui.input {
+  min-width: 200px; }
